@@ -1,6 +1,6 @@
 # Injuries-in-NFL-Prediction
 
-Used R to build out a prediction classifier and trend identifier, specifically tailored for evaluating injuries and concussions within the NFL industry.
+Built out a prediction classifier and trend identifier, specifically tailored for evaluating injuries and concussions within the NFL industry using R programming language.
 
 Executed a comprehensive analysis using a diverse array of statistical models, including foundational data visualization, time-trend analysis, and decision tree analysis in R.
 
